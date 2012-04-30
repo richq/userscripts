@@ -1,7 +1,13 @@
 Richard Quirk's Greasemonkey User Scripts
 
-videogamesplus2gamefaqs - http://videogamesplus.ca link to http://gamefaqs.com
+videogamesplus - http://videogamesplus.ca link to http://gamefaqs.com
 
-Forum Fixer - Removes signatures and replaces off site images with a small link on vBulletin and phpBB forums.
+forumfixer - Forum Fixer - Removes signatures and replaces off site images with a small link on vBulletin and phpBB forums.
 
-GameFaqs image thing - hop to next image on gamefaqs.com image pages
+gamefaqs - GameFaqs image thing - hop to next image on gamefaqs.com image pages (no longer needed)
+
+fix_giant_block_on_eltie - fix large space error when visiting eltiempo.es with noscript
+
+hacker_news_via_viewtext_org - view news.ycombinator.com posts via viewtext.org
+
+richards_redirect_to_mob - always redirect twitter to the mobile site
